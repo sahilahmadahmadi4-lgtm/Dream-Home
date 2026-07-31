@@ -3,7 +3,7 @@
 A clean, modern, and fully responsive real estate landing page template built to help users discover their perfect dream home.
 
 🚀 Live Demo
-You can view the live website here: [sahil-ahmadi1.netlify.app](https://netlify.app)
+You can view the live website here: https://sahil-ahmadi1.netlify.app/
 
 ✨ Features
 * Modern and minimalist UI design
