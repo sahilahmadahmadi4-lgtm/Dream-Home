@@ -15,7 +15,5 @@ You can view the live website here: [sahil-ahmadi1.netlify.app](https://netlify.
 * **HTML5** - Semantic markup structure
 * **CSS3** - Custom styling, Flexbox, and Grid layout
 
-👤 Author
-* Name: **Sahil Ahmadi**
-* GitHub: [@sahilahmadi4-lgtm](https://github.com)
+
 
